@@ -2589,7 +2589,7 @@
     "package": "ProPILOT Assist"
   },
   "Nissan Leaf Instrument Cluster 2018-23": {
-    "platform": "NISSAN_LEAF",
+    "platform": "NISSAN_LEAF_IC",
     "make": "Nissan",
     "brand": "nissan",
     "model": "Leaf",
